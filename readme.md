@@ -1,6 +1,6 @@
 
 ### About this Project:
-This is a 'Portfolio Exercise' Portfolio Exercise based on the instructions from Udacity Data Scientist Nanodegree/Software Engineer/Lesson 5. I use object-oriented programming and create a package and upload the package to make a calculus package that implements algorithms Newton's method.
+This is a Portfolio Exercise based on the instructions from Udacity Data Scientist Nanodegree/Software Engineer/Lesson 5. I use object-oriented programming and create a package and upload the package to make a calculus package that implements algorithms Newton's method.
 
 ### Environment:
 This project is run in a virtual workspace set by Udacity. The workspace is the same Ubuntu Linux environment.
