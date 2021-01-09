@@ -1,0 +1,11 @@
+setup.py
+NewtonMethod_QM/FstDiff.py
+NewtonMethod_QM/GeneralDiff.py
+NewtonMethod_QM/NewtonMethod.py
+NewtonMethod_QM/SecDiff.py
+NewtonMethod_QM/__init__.py
+NewtonMethod_QM.egg-info/PKG-INFO
+NewtonMethod_QM.egg-info/SOURCES.txt
+NewtonMethod_QM.egg-info/dependency_links.txt
+NewtonMethod_QM.egg-info/not-zip-safe
+NewtonMethod_QM.egg-info/top_level.txt
